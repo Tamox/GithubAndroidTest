@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">GithubAndroidTest</string>
-    <string name="foobar">foo</string>
+    <string name="foobar">fooo</string>
     <string name="hello_world">Hello Mr. Kosek!</string>
     <string name="action_settings">Settings</string>
 </resources>
